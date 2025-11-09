@@ -11,14 +11,10 @@
             "id": "db4f152365fa5962",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db4f152365fa5962",
+  "active": "5c014ce9f5b07126",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 4.base",
     "Haru/Main/学習.md",
     "Haru/株.md",
     "Haru/お金.md",
@@ -196,7 +193,6 @@
     "Haru/Main/AI.md",
     "Haru/Main/本.md",
     "2025-11-08.md",
-    "Untitled.canvas",
     "settings.md",
     "Untitled 2.canvas",
     "Haru/偉人.md",
