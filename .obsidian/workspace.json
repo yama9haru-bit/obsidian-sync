@@ -11,14 +11,14 @@
             "id": "db4f152365fa5962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Haru/株.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "株"
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "株",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,6 +184,8 @@
   },
   "active": "db4f152365fa5962",
   "lastOpenFiles": [
+    "Haru/Main/学習.md",
+    "Haru/株.md",
     "Haru/お金.md",
     "Untitled 3.base",
     "Untitled 2.base",
