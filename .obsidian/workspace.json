@@ -11,10 +11,14 @@
             "id": "db4f152365fa5962",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Haru/Main/仕事.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "仕事"
             }
           }
         ]
@@ -177,11 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c014ce9f5b07126",
+  "active": "db4f152365fa5962",
   "lastOpenFiles": [
+    "Haru/Main/思考.md",
+    "Haru/Main/起業.md",
+    "Haru/Main/学習.md",
+    "Haru/Main/仕事.md",
+    "Haru/Main/きょうみ.md",
     "Untitled.canvas",
     "Untitled 4.base",
-    "Haru/Main/学習.md",
     "Haru/株.md",
     "Haru/お金.md",
     "Untitled 3.base",
