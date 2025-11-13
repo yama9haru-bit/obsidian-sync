@@ -11,10 +11,14 @@
             "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Haru/Tags/content/najoshi-no-gotoku.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "najoshi-no-gotoku"
             }
           }
         ]
@@ -179,6 +183,29 @@
   },
   "active": "92b3ba40b0e22a3d",
   "lastOpenFiles": [
+    "Haru/Tags/content/overseas.md",
+    "Haru/Tags/content/part-time.md",
+    "Haru/Tags/content/supermarket.md",
+    "Haru/Tags/content/najoshi-no-gotoku.md",
+    "Haru/Tags/content/habit.md",
+    "Haru/Tags/content/bubble.md",
+    "Haru/Tags/content/check.md",
+    "Haru/Tags/content/latent-desire.md",
+    "Haru/Tags/content/values.md",
+    "Haru/Tags/content",
+    "Haru/Tags/20_Action/習慣.md",
+    "Haru/Tags/10_Topic/潜在欲求.md",
+    "Haru/Tags/10_Topic/汝、星の如く.md",
+    "Haru/Tags/00_System/チェック.md",
+    "Haru/Tags/20_Action/バイト.md",
+    "Haru/Tags/10_Topic/海外.md",
+    "Haru/Tags/10_Topic/価値観.md",
+    "Haru/Tags/10_Topic/スーパー.md",
+    "Haru/Tags/10_Topic/bubble.md",
+    "Haru/Tags/20_Action",
+    "Haru/Tags/10_Topic",
+    "Haru/Tags/00_System",
+    "atcoder.md",
     "Haru/Tags/価値観.md",
     "Haru/Tags/習慣.md",
     "Haru/Tags/潜在欲求.md",
@@ -194,27 +221,7 @@
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Haru/Template/daily-note-template.md",
-    "Haru/MEMO(Thino)/README.md",
-    "Haru/Daily/README.md",
-    "Haru/Zettelkasten/Zettelkastenの運用/README.md",
-    "Haru/Zettelkasten/LiteratureNote/Entrepreneur.md",
-    "Haru/Zettelkasten/LiteratureNote/Plurality.md",
-    "Haru/Zettelkasten/LiteratureNote/櫻川先生.md",
-    "Haru/Zettelkasten/LiteratureNote/林慎太郎.md",
-    "Haru/Zettelkasten/LiteratureNote/渡邉さん.md",
-    "Haru/Zettelkasten/LiteratureNote/統計学.md",
-    "Haru/Zettelkasten/LiteratureNote/量子力学.md",
-    "Haru/Zettelkasten/LiteratureNote/谷口さん.md",
-    "Haru/Zettelkasten/LiteratureNote/上原さん.md",
-    "Haru/Zettelkasten/LiteratureNote/フードロス.md",
-    "Haru/Tags/海外.md",
-    "Haru/Tags/バイト.md",
-    "Haru/Tags/スーパー.md",
-    "Haru/Tags/bubble.md",
-    "Haru/Zettelkasten/LiteratureNote/数理統計学.md",
-    "Haru/Zettelkasten/LiteratureNote/rag notion.md",
     "Zettelkasten/IndexNote",
-    "Zettelkasten",
     "Haru/Resources/Attachments/IMG_9610.png",
     "Haru/Resources/Attachments/IMG_9611.png",
     "Haru/Resources/Attachments/IMG_9590.jpeg",
@@ -224,9 +231,6 @@
     "Haru/Resources/Attachments/IMG_0954.jpeg",
     "Haru/Resources/Attachments/Pasted image 20250702210401.png",
     "Haru/Resources/Attachments/IMG_0746.png",
-    "Haru/Resources/Attachments/IMG_0963.jpeg",
-    "Haru/Resources/Attachments/IMG_0520.mov",
-    "Haru/Resources/Attachments/IMG_9851.mov",
-    "Haru/Resources/Attachments"
+    "Haru/Resources/Attachments/IMG_0963.jpeg"
   ]
 }
