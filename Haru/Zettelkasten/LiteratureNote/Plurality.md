@@ -7,7 +7,7 @@ related_permanent: []
 tags:
 - literature
 - plurality
-clipped_at: 2025-11-13
+clipped_at: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 プルーラリティをキーワードとしてAIの進化と将来の社会を絡めて話していた(本の内容結構喋ってたから読んでないならぜひ！)

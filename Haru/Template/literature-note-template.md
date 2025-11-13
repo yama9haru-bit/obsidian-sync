@@ -1,10 +1,11 @@
 ---
 type: literature
-source:
-  title: 
-  author: 
-  url: 
+source_title: 
+source_author: 
+source_url: 
 related_permanent: []
+tags:
+  - literature
 clipped_at: <% tp.date.now("YYYY-MM-DD") %>
 ---
 

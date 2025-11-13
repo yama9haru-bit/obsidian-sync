@@ -1,9 +1,10 @@
 ---
 type: permanent
-derived_from:
-  literature: []
-  fleeting: []
-updated: <% tp.date.now("YYYY-MM-DD") %>
+derived_from_literature: []
+derived_from_fleeting: []
+tags:
+  - permanent
+updated: <% tp.date.now("2025-03-13") %>
 ---
 
 # タイトル

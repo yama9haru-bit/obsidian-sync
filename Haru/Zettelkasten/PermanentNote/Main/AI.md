@@ -5,7 +5,7 @@ derived_from_fleeting: []
 tags:
 - permanent
 - ai
-updated: 2025-11-13
+updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 [[チェック]]の必要性 

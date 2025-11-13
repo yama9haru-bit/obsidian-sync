@@ -7,7 +7,7 @@ related_permanent: []
 tags:
 - literature
 - rag-notion
-clipped_at: 2025-11-13
+clipped_at: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 https://speakerdeck.com/mickey_kubo/transformerkaramcpmade-xian-dai-aiwoli-jie-surutamenoluo-zhen-pan

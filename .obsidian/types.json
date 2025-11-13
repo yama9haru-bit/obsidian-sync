@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "clipped_at": "date",
+    "captured_at": "date",
+    "updated": "date",
+    "date": "date",
+    "link_to_memo": "text"
+  }
+}

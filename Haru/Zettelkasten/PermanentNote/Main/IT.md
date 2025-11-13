@@ -5,7 +5,7 @@ derived_from_fleeting: []
 tags:
 - permanent
 - it
-updated: 2025-11-13
+updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 https://m.youtube.com/watch?v=rAsovLKXCXo

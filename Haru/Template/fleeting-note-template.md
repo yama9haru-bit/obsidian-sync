@@ -2,9 +2,10 @@
 type: fleeting
 status: inbox
 captured_at: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-related:
-  permanent: []
-  literature: []
+related_permanent: []
+related_literature: []
+tags:
+  - fleeting
 ---
 
 # ひらめき / メモ

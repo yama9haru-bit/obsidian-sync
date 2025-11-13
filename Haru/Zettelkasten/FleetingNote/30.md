@@ -1,7 +1,7 @@
 ---
 type: fleeting
 status: inbox
-captured_at: 2025-11-13 12:16
+captured_at: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 related_permanent: []
 related_literature: []
 tags:

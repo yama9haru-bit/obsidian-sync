@@ -7,7 +7,7 @@ related_permanent: []
 tags:
   - literature
   - entrepreneur
-clipped_at: 2025-11-13
+clipped_at: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 Spotifyの漫画版を作りたい(集英社とタイアップ)
