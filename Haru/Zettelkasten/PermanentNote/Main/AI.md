@@ -1,3 +1,14 @@
+---
+type: permanent
+derived_from:
+  literature: []
+  fleeting: []
+tags:
+  - permanent
+  - 'ai'
+updated: 2025-11-13
+---
+
 [[チェック]]の必要性 
 必ず理解して世に放つ[[校閲]]
 [[genspark]]

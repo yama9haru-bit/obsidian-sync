@@ -1,3 +1,14 @@
+---
+type: permanent
+derived_from:
+  literature: []
+  fleeting: []
+tags:
+  - permanent
+  - 'it'
+updated: 2025-11-13
+---
+
 https://m.youtube.com/watch?v=rAsovLKXCXo
 (Cursor 使い方)
 むずすぎてきびい
