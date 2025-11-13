@@ -11,10 +11,13 @@
             "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,20 +180,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811225cfcb494eb7",
+  "active": "92b3ba40b0e22a3d",
   "lastOpenFiles": [
-    "Haru/Main/note取り方.md",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Haru/Template/daily-note-template.md",
-    "Haru/Template/fleeting-note-template.md",
-    "Haru/Template/literature-note-template.md",
-    "Haru/Template/permanent-note-template.md",
-    "Haru/Template/README.md",
     "Haru/MEMO(Thino)/README.md",
     "Haru/Daily/README.md",
     "Haru/Zettelkasten/Zettelkastenの運用/README.md",
-    "Haru/Resources/README.md",
-    "Haru/Zettelkasten/IndexNote/00_Haru_Index.md",
-    "Zettelkasten/IndexNote/00_Haru_Index.md",
+    "Haru/Zettelkasten/LiteratureNote/Entrepreneur.md",
+    "Haru/Zettelkasten/LiteratureNote/Plurality.md",
+    "Haru/Zettelkasten/LiteratureNote/櫻川先生.md",
+    "Haru/Zettelkasten/LiteratureNote/林慎太郎.md",
+    "Haru/Zettelkasten/LiteratureNote/渡邉さん.md",
+    "Haru/Zettelkasten/LiteratureNote/統計学.md",
+    "Haru/Zettelkasten/LiteratureNote/量子力学.md",
+    "Haru/Zettelkasten/LiteratureNote/谷口さん.md",
+    "Haru/Zettelkasten/LiteratureNote/上原さん.md",
+    "Haru/Zettelkasten/LiteratureNote/フードロス.md",
+    "Haru/Tags/汝、星の如く.md",
+    "Haru/Tags/潜在欲求.md",
+    "Haru/Tags/習慣.md",
+    "Haru/Tags/海外.md",
+    "Haru/Tags/価値観.md",
+    "Haru/Tags/バイト.md",
+    "Haru/Tags/チェック.md",
+    "Haru/Tags/スーパー.md",
+    "Haru/Tags/bubble.md",
+    "Haru/Zettelkasten/LiteratureNote/数理統計学.md",
+    "Haru/Zettelkasten/LiteratureNote/rag notion.md",
     "Zettelkasten/IndexNote",
     "Zettelkasten",
     "Haru/Resources/Attachments/IMG_9610.png",
@@ -206,28 +229,6 @@
     "Haru/Resources/Attachments/IMG_0963.jpeg",
     "Haru/Resources/Attachments/IMG_0520.mov",
     "Haru/Resources/Attachments/IMG_9851.mov",
-    "Haru/Resources/Attachments",
-    "Haru/Zettelkasten/LiteratureNote/Entrepreneur.md",
-    "Haru/Zettelkasten/FleetingNote/行動をする.md",
-    "Haru/Zettelkasten/FleetingNote/行動.md",
-    "Haru/Zettelkasten/FleetingNote/興味.md",
-    "Haru/Zettelkasten/FleetingNote/自動操縦状態.md",
-    "Haru/Zettelkasten/FleetingNote/留学.md",
-    "Haru/Zettelkasten/FleetingNote/無題のファイル.md",
-    "Haru/Zettelkasten/FleetingNote/氷点.md",
-    "Haru/Zettelkasten/FleetingNote/水球.md",
-    "Haru/Zettelkasten/FleetingNote/感情移入.md",
-    "Haru/Zettelkasten/FleetingNote/人.md",
-    "Haru/Zettelkasten/FleetingNote/バランス感覚.md",
-    "Haru/Zettelkasten/FleetingNote/エクスプレッシブライティング.md",
-    "Haru/Zettelkasten/FleetingNote/アドラー.md",
-    "Haru/Zettelkasten/PermanentNote/Main",
-    "Haru/Template",
-    "Haru/MEMO(Thino)",
-    "Haru/Daily",
-    "Haru/Zettelkasten/Zettelkastenの運用",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "Haru/Resources/Attachments"
   ]
 }
