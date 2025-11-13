@@ -21,10 +21,14 @@
             "id": "7f6a4e04767198ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SNS"
             }
           }
         ],
@@ -120,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SNS"
             }
           },
           {
@@ -148,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SNS"
             }
           },
           {
@@ -188,6 +194,21 @@
   },
   "active": "7f6a4e04767198ee",
   "lastOpenFiles": [
+    "Haru/Zettelkasten/FleetingNote/Replit.md",
+    "Haru/Zettelkasten/LiteratureNote/個人的to doまとめ.md",
+    "Invalid date.md",
+    "Haru/Zettelkasten/個人的to doまとめ.md",
+    "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten/LiteratureNote",
+    "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten",
+    "Users/haruto.yamao/Documents/obsidian/Haru",
+    "Users/haruto.yamao/Documents/obsidian",
+    "Users/haruto.yamao/Documents",
+    "Users/haruto.yamao",
+    "Users",
+    "Haru/Zettelkasten/LiteratureNote/個人的to doまとめ 1.md",
+    "literature/個人的to doまとめ.md",
+    "literature",
+    "Clippings",
     "Haru/Zettelkasten/FleetingNote/人.md",
     "Haru/Zettelkasten/LiteratureNote/ホームカミングデイ.md",
     "Haru/Template/literature-note-template.md",
@@ -207,26 +228,11 @@
     "Haru/Zettelkasten/FleetingNote/行動.md",
     "Haru/Zettelkasten/FleetingNote/自動操縦状態.md",
     "Untitled.md",
-    "Replit.md",
     "Haru/Zettelkasten/Zettelkastenの運用/README.md",
-    "Haru/MEMO(Thino)/README.md",
-    "2025-03-13.md",
-    "Invalid date.md",
-    "Haru/Zettelkasten/LiteratureNote/フードロス.md",
-    "Haru/Zettelkasten/LiteratureNote/rag notion.md",
     "Untitled.canvas",
     "Haru/Tags/content",
-    "Haru/Tags/20_Action",
-    "Haru/Tags/10_Topic",
-    "Haru/Tags/00_System",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Zettelkasten/IndexNote",
     "Haru/Resources/Attachments/IMG_9610.png",
     "Haru/Resources/Attachments/IMG_9611.png",
     "Haru/Resources/Attachments/IMG_9590.jpeg",
