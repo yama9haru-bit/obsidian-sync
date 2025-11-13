@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db4f152365fa5962",
+            "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Main/仕事.md",
+                "file": "Haru/Main/本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "仕事"
+              "title": "本"
             }
           }
         ]
@@ -181,13 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db4f152365fa5962",
+  "active": "92b3ba40b0e22a3d",
   "lastOpenFiles": [
+    "Haru/Main/興味.md",
+    "Haru/Main/行動.md",
+    "Haru/Main/仕事.md",
     "Haru/Main/思考.md",
     "Haru/Main/起業.md",
     "Haru/Main/学習.md",
-    "Haru/Main/仕事.md",
-    "Haru/Main/きょうみ.md",
     "Untitled.canvas",
     "Untitled 4.base",
     "Haru/株.md",
