@@ -11,17 +11,24 @@
             "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haru/Template/fleeting-note-template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fleeting-note-template"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7f6a4e04767198ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -128,7 +134,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -142,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -181,35 +186,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92b3ba40b0e22a3d",
+  "active": "7f6a4e04767198ee",
   "lastOpenFiles": [
+    "Haru/Zettelkasten/FleetingNote/人.md",
+    "Haru/Zettelkasten/LiteratureNote/ホームカミングデイ.md",
+    "Haru/Template/literature-note-template.md",
+    "2025-11-13.md",
+    "Haru/Template/permanent-note-template.md",
+    "Haru/Tags/content/part-time.md",
     "Haru/Template/daily-note-template.md",
     "Haru/Template/fleeting-note-template.md",
+    "Haru/Zettelkasten/FleetingNote/留学.md",
+    "Haru/Zettelkasten/IndexNote/00_Haru_Index.md",
     "Haru/Zettelkasten/FleetingNote/氷点.md",
+    "Haru/Zettelkasten/FleetingNote/水球.md",
     "Haru/Zettelkasten/FleetingNote/行動をする.md",
     "Haru/Zettelkasten/FleetingNote/興味.md",
-    "Haru/Zettelkasten/FleetingNote/バランス感覚.md",
-    "Haru/Zettelkasten/FleetingNote/SNS.md",
-    "Haru/Template/permanent-note-template.md",
-    "2025-03-13.md",
-    "Haru/Template/literature-note-template.md",
-    "Haru/Zettelkasten/LiteratureNote/フードロス.md",
-    "Invalid date.md",
+    "Haru/Zettelkasten/FleetingNote/外貨獲得and株.md",
+    "Haru/Zettelkasten/FleetingNote/感情移入.md",
     "Haru/Zettelkasten/FleetingNote/行動.md",
-    "Haru/Zettelkasten/FleetingNote/アクセプタンスワードセラピー.md",
-    "Haru/Zettelkasten/FleetingNote/30.md",
-    "settings.md",
-    "Untitled.canvas",
-    "2025-11-13.md",
-    "Haru/Zettelkasten/LiteratureNote/Python atcoder.md",
-    "Haru/Template/README.md",
-    "Haru/Tags/content/check.md",
-    "Haru/Tags/content/overseas.md",
-    "Haru/Tags/content/habit.md",
-    "Haru/Tags/content/najoshi-no-gotoku.md",
-    "Haru/Daily/README.md",
+    "Haru/Zettelkasten/FleetingNote/自動操縦状態.md",
     "Untitled.md",
+    "Replit.md",
+    "Haru/Zettelkasten/Zettelkastenの運用/README.md",
     "Haru/MEMO(Thino)/README.md",
+    "2025-03-13.md",
+    "Invalid date.md",
+    "Haru/Zettelkasten/LiteratureNote/フードロス.md",
+    "Haru/Zettelkasten/LiteratureNote/rag notion.md",
+    "Untitled.canvas",
     "Haru/Tags/content",
     "Haru/Tags/20_Action",
     "Haru/Tags/10_Topic",
