@@ -11,14 +11,10 @@
             "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haru/Main/本.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "本"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,28 +180,54 @@
   },
   "active": "92b3ba40b0e22a3d",
   "lastOpenFiles": [
-    "Haru/Main/興味.md",
-    "Haru/Main/行動.md",
-    "Haru/Main/仕事.md",
-    "Haru/Main/思考.md",
-    "Haru/Main/起業.md",
-    "Haru/Main/学習.md",
+    "Haru/Template/daily-note-template.md",
+    "Haru/Template/fleeting-note-template.md",
+    "Haru/Template/literature-note-template.md",
+    "Haru/Template/permanent-note-template.md",
+    "Haru/Template/README.md",
+    "Haru/MEMO(Thino)/README.md",
+    "Haru/Daily/README.md",
+    "Haru/Zettelkasten/Zettelkastenの運用/README.md",
+    "Haru/Resources/README.md",
+    "Haru/Zettelkasten/IndexNote/00_Haru_Index.md",
+    "Zettelkasten/IndexNote/00_Haru_Index.md",
+    "Zettelkasten/IndexNote",
+    "Zettelkasten",
+    "Haru/Resources/Attachments/IMG_9610.png",
+    "Haru/Resources/Attachments/IMG_9611.png",
+    "Haru/Resources/Attachments/IMG_9590.jpeg",
+    "Haru/Resources/Attachments/IMG_9650.png",
+    "Haru/Resources/Attachments/IMG_9608.png",
+    "Haru/Resources/Attachments/IMG_9609.png",
+    "Haru/Resources/Attachments/IMG_0954.jpeg",
+    "Haru/Resources/Attachments/Pasted image 20250702210401.png",
+    "Haru/Resources/Attachments/IMG_0746.png",
+    "Haru/Resources/Attachments/IMG_0963.jpeg",
+    "Haru/Resources/Attachments/IMG_0520.mov",
+    "Haru/Resources/Attachments/IMG_9851.mov",
+    "Haru/Resources/Attachments",
+    "Haru/Zettelkasten/LiteratureNote/Entrepreneur.md",
+    "Haru/Zettelkasten/FleetingNote/行動をする.md",
+    "Haru/Zettelkasten/FleetingNote/行動.md",
+    "Haru/Zettelkasten/FleetingNote/興味.md",
+    "Haru/Zettelkasten/FleetingNote/自動操縦状態.md",
+    "Haru/Zettelkasten/FleetingNote/留学.md",
+    "Haru/Zettelkasten/FleetingNote/無題のファイル.md",
+    "Haru/Zettelkasten/FleetingNote/氷点.md",
+    "Haru/Zettelkasten/FleetingNote/水球.md",
+    "Haru/Zettelkasten/FleetingNote/感情移入.md",
+    "Haru/Zettelkasten/FleetingNote/人.md",
+    "Haru/Zettelkasten/FleetingNote/バランス感覚.md",
+    "Haru/Zettelkasten/FleetingNote/エクスプレッシブライティング.md",
+    "Haru/Zettelkasten/FleetingNote/アドラー.md",
+    "Haru/Zettelkasten/FleetingNote/アクセプタンスワードセラピー.md",
+    "Haru/Zettelkasten/PermanentNote/Main",
+    "Haru/Template",
+    "Haru/MEMO(Thino)",
+    "Haru/Daily",
+    "Haru/Zettelkasten/Zettelkastenの運用",
     "Untitled.canvas",
-    "Untitled 4.base",
-    "Haru/株.md",
-    "Haru/お金.md",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Haru/、お金.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Replit.md",
-    "Haru/Main/AI.md",
-    "Haru/Main/本.md",
-    "2025-11-08.md",
-    "settings.md",
     "Untitled 2.canvas",
-    "Haru/偉人.md",
     "Untitled 1.canvas"
   ]
 }
