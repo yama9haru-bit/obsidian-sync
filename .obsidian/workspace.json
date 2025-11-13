@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
+                "file": "Haru/Zettelkasten/LiteratureNote/松濤Vimmer｜note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SNS"
+              "title": "松濤Vimmer｜note"
             }
           }
         ],
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
+                "file": "Haru/Zettelkasten/LiteratureNote/松濤Vimmer｜note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SNS"
+              "title": "Outgoing links from 松濤Vimmer｜note"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/SNS.md",
+                "file": "Haru/Zettelkasten/LiteratureNote/松濤Vimmer｜note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SNS"
+              "title": "Outline of 松濤Vimmer｜note"
             }
           },
           {
@@ -194,8 +194,13 @@
   },
   "active": "7f6a4e04767198ee",
   "lastOpenFiles": [
-    "Haru/Zettelkasten/FleetingNote/Replit.md",
+    "Haru/Zettelkasten/LiteratureNote/上原さん.md",
+    "Haru/Zettelkasten/LiteratureNote/松濤Vimmer｜note.md",
+    "Haru/Zettelkasten/LiteratureNote/人を動かす.md",
     "Haru/Zettelkasten/LiteratureNote/個人的to doまとめ.md",
+    "Haru/Zettelkasten/LiteratureNote/Python atcoder.md",
+    "Haru/Zettelkasten/FleetingNote/SNS.md",
+    "Haru/Zettelkasten/FleetingNote/Replit.md",
     "Invalid date.md",
     "Haru/Zettelkasten/個人的to doまとめ.md",
     "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten/LiteratureNote",
@@ -224,11 +229,6 @@
     "Haru/Zettelkasten/FleetingNote/行動をする.md",
     "Haru/Zettelkasten/FleetingNote/興味.md",
     "Haru/Zettelkasten/FleetingNote/外貨獲得and株.md",
-    "Haru/Zettelkasten/FleetingNote/感情移入.md",
-    "Haru/Zettelkasten/FleetingNote/行動.md",
-    "Haru/Zettelkasten/FleetingNote/自動操縦状態.md",
-    "Untitled.md",
-    "Haru/Zettelkasten/Zettelkastenの運用/README.md",
     "Untitled.canvas",
     "Haru/Tags/content",
     "Untitled 1.canvas",
