@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Daily/2025-11-13.md",
+                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-13"
+              "title": "英語学習"
             }
           }
         ],
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haru/Daily/2025-11-13.md",
+                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-11-13"
+              "title": "Outgoing links from 英語学習"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haru/Daily/2025-11-13.md",
+                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-13"
+              "title": "Outline of 英語学習"
             }
           },
           {
@@ -208,13 +208,14 @@
   },
   "active": "1190d53c3f059849",
   "lastOpenFiles": [
+    "Haru/Daily/2025-11-13.md",
+    "Haru/Zettelkasten/FleetingNote/英語学習.md",
     "Haru/Zettelkasten/FleetingNote/外貨獲得and株.md",
     "Haru/Zettelkasten/FleetingNote/金.md",
     "Haru/Tags/content/bubble.md",
     "Haru/Tags/content/check.md",
     "Haru/Tags/content/habit.md",
     "Haru/Tags/content/latent-desire.md",
-    "Haru/Daily/2025-11-13.md",
     "Haru/Zettelkasten/FleetingNote/Obsidian.md",
     "Haru/Daily/README.md",
     "Haru/MEMO(Thino)/README.md",
@@ -244,7 +245,6 @@
     "literature",
     "Clippings",
     "Haru/Zettelkasten/FleetingNote/人.md",
-    "Haru/Zettelkasten/LiteratureNote/ホームカミングデイ.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Haru/Resources/Attachments/IMG_9610.png",
