@@ -1,11 +1,10 @@
 ---
 type: permanent
-derived_from:
-  literature: []
-  fleeting: []
+derived_from_literature: []
+derived_from_fleeting: []
 tags:
-  - permanent
-  - 'ai'
+- permanent
+- ai
 updated: 2025-11-13
 ---
 

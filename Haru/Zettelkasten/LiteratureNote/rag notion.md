@@ -1,13 +1,12 @@
 ---
 type: literature
-source:
-  title: 
-  author: 
-  url: 
+source_title: ''
+source_author: ''
+source_url: ''
 related_permanent: []
 tags:
-  - literature
-  - 'rag-notion'
+- literature
+- rag-notion
 clipped_at: 2025-11-13
 ---
 

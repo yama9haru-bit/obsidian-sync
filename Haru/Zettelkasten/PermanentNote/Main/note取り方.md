@@ -1,11 +1,10 @@
 ---
 type: permanent
-derived_from:
-  literature: []
-  fleeting: []
+derived_from_literature: []
+derived_from_fleeting: []
 tags:
-  - permanent
-  - 'note取り方'
+- permanent
+- note取り方
 updated: 2025-11-13
 ---
 
