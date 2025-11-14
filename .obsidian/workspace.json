@@ -11,10 +11,14 @@
             "id": "92b3ba40b0e22a3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Haru/Zettelkasten/FleetingNote/千本倖生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "千本倖生"
             }
           },
           {
@@ -37,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
+                "file": "Haru/Zettelkasten/PermanentNote/Main/起業.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英語学習"
+              "title": "起業"
             }
           }
         ],
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6156e2bb07e2f7bf",
@@ -138,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
+                "file": "Haru/Zettelkasten/PermanentNote/Main/起業.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 英語学習"
+              "title": "Outgoing links from 起業"
             }
           },
           {
@@ -167,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haru/Zettelkasten/FleetingNote/英語学習.md",
+                "file": "Haru/Zettelkasten/PermanentNote/Main/起業.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 英語学習"
+              "title": "Outline of 起業"
             }
           },
           {
@@ -208,7 +212,16 @@
   },
   "active": "1190d53c3f059849",
   "lastOpenFiles": [
+    "Haru/Zettelkasten/FleetingNote/千本倖生.md",
+    "Haru/Zettelkasten/LiteratureNote/現KDDI創業者が語る、起業家に必要な5つの素養｜レノバ 千本倖生  1  Forbes JAPAN 公式サイト（フォーブス ジャパン）.md",
+    "Haru/Resources/README.md",
+    "Haru/Zettelkasten/PermanentNote/Main/起業.md",
+    "Haru/MEMO(Thino)/11-14 金一　現代美術の講評.md",
+    "Haru/MEMO(Thino)/README.md",
+    "Haru/Daily/README.md",
     "Haru/Daily/2025-11-13.md",
+    "Haru/Zettelkasten/PermanentNote/Main/学習.md",
+    "ロビー活動.md",
     "Haru/Zettelkasten/FleetingNote/英語学習.md",
     "Haru/Zettelkasten/FleetingNote/外貨獲得and株.md",
     "Haru/Zettelkasten/FleetingNote/金.md",
@@ -217,11 +230,7 @@
     "Haru/Tags/content/habit.md",
     "Haru/Tags/content/latent-desire.md",
     "Haru/Zettelkasten/FleetingNote/Obsidian.md",
-    "Haru/Daily/README.md",
-    "Haru/MEMO(Thino)/README.md",
-    "Haru/Resources/README.md",
     "Untitled.canvas",
-    "Haru/Zettelkasten/PermanentNote/Main/学習.md",
     "2025-11-13.md",
     "Untitled.base",
     "Haru/Zettelkasten/LiteratureNote/松濤Vimmer｜note.md",
@@ -231,8 +240,6 @@
     "Haru/Zettelkasten/LiteratureNote/Python atcoder.md",
     "Haru/Zettelkasten/FleetingNote/SNS.md",
     "Haru/Zettelkasten/FleetingNote/Replit.md",
-    "Invalid date.md",
-    "Haru/Zettelkasten/個人的to doまとめ.md",
     "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten/LiteratureNote",
     "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten",
     "Users/haruto.yamao/Documents/obsidian/Haru",
@@ -240,11 +247,8 @@
     "Users/haruto.yamao/Documents",
     "Users/haruto.yamao",
     "Users",
-    "Haru/Zettelkasten/LiteratureNote/個人的to doまとめ 1.md",
-    "literature/個人的to doまとめ.md",
     "literature",
     "Clippings",
-    "Haru/Zettelkasten/FleetingNote/人.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Haru/Resources/Attachments/IMG_9610.png",
