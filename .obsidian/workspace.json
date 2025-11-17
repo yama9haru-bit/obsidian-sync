@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Zettelkasten/PermanentNote/Main/現代美術の講評.md",
+                "file": "Haru/Zettelkasten/PermanentNote/Main/データラベリング起業.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "現代美術の講評"
+              "title": "データラベリング起業"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Zettelkasten/LiteratureNote/現代美術の講評_金一人間科学入門授業.md",
+                "file": "Haru/MEMO(Thino)/データラベリング起業.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "現代美術の講評_金一人間科学入門授業"
+              "title": "データラベリング起業"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,20 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed518f7af242f44",
+  "active": "7f6a4e04767198ee",
   "lastOpenFiles": [
-    "Haru/Zettelkasten/LiteratureNote/11-14 金一　現代美術の講評.md",
+    "Haru/MEMO(Thino)/データラベリング起業.md",
+    "Haru/Zettelkasten/PermanentNote/Main/データラベリング起業.md",
+    "Haru/MEMO(Thino)/ことら送金　ビジネスモデル.md",
     "Haru/Zettelkasten/LiteratureNote/現代美術の講評_金一人間科学入門授業.md",
+    "Haru/Zettelkasten/LiteratureNote/11-14 金一　現代美術の講評.md",
     "Haru/Zettelkasten/LiteratureNote/Untitled 1.md",
     "Haru/Zettelkasten/LiteratureNote/Entrepreneur.md",
-    "Haru/Zettelkasten/PermanentNote/Main/現代美術の講評.md",
     "Haru/Template/README.md",
     "Haru/Zettelkasten/FleetingNote/Obsidian.md",
     "Haru/MEMO(Thino)/README.md",
-    "Haru/MEMO(Thino)/ことら送金　ビジネスモデル.md",
     "Haru/Zettelkasten/LiteratureNote/銀行が少額送金事業に参入する理由「ことら」のサービス内容を解説 - Virtuspayment｜最短1日で導入可能の手軽な決済サービス｜VP NEWS｜Virtuspayment｜最短1日で導入可能の手軽な決済サービス.md",
     "Haru/Zettelkasten/LiteratureNote/現KDDI創業者が語る、起業家に必要な5つの素養｜レノバ 千本倖生  1  Forbes JAPAN 公式サイト（フォーブス ジャパン）.md",
-    "Haru/MEMO(Thino)/データラベリング起業.md",
     "Haru/MEMO(Thino)/学校法人の設立.md",
     "Haru/Zettelkasten/PermanentNote/Main/起業.md",
     "データラベリングについて.md",
