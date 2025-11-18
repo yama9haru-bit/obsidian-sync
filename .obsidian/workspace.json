@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/Zettelkasten/PermanentNote/Main/データラベリング起業.md",
+                "file": "Haru/Zettelkasten/FleetingNote/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "データラベリング起業"
+              "title": "Untitled"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haru/MEMO(Thino)/データラベリング起業.md",
+                "file": "Haru/MEMO(Thino)/ことら送金　ビジネスモデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "データラベリング起業"
+              "title": "ことら送金　ビジネスモデル"
             }
           }
         ]
@@ -197,9 +197,13 @@
   },
   "active": "7f6a4e04767198ee",
   "lastOpenFiles": [
+    "Haru/MEMO(Thino)/ことら送金　ビジネスモデル.md",
+    "Haru/Zettelkasten/FleetingNote/Untitled.md",
+    "Untitled 1.canvas",
+    "Haru/Zettelkasten/FleetingNote/興味.md",
+    "Haru/Template/fleeting-note-template.md",
     "Haru/MEMO(Thino)/データラベリング起業.md",
     "Haru/Zettelkasten/PermanentNote/Main/データラベリング起業.md",
-    "Haru/MEMO(Thino)/ことら送金　ビジネスモデル.md",
     "Haru/Zettelkasten/LiteratureNote/現代美術の講評_金一人間科学入門授業.md",
     "Haru/Zettelkasten/LiteratureNote/11-14 金一　現代美術の講評.md",
     "Haru/Zettelkasten/LiteratureNote/Untitled 1.md",
@@ -221,10 +225,6 @@
     "Haru/Daily/2025-11-13.md",
     "Haru/Resources/Attachments/IMG_0089.jpeg",
     "Haru/Daily/README.md",
-    "Haru/Zettelkasten/PermanentNote/Main/学習.md",
-    "ロビー活動.md",
-    "Haru/Zettelkasten/FleetingNote/英語学習.md",
-    "Haru/Zettelkasten/FleetingNote/外貨獲得and株.md",
     "Untitled.base",
     "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten/LiteratureNote",
     "Users/haruto.yamao/Documents/obsidian/Haru/Zettelkasten",
@@ -235,7 +235,6 @@
     "Users",
     "literature",
     "Clippings",
-    "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Haru/Resources/Attachments/IMG_9610.png",
     "Haru/Resources/Attachments/IMG_9611.png",
